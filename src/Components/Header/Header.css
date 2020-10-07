@@ -1,0 +1,23 @@
+.regBtn{
+    margin-right: 8px;
+    width:120px;
+    border-style: none;
+}
+
+.adBtn{
+    background-color: black;
+    width:120px;
+    border-style: none;
+}
+
+.headLine h1{
+    margin-top: 80px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+.srcBtn{
+
+}

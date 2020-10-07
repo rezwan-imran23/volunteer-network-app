@@ -1,0 +1,12 @@
+.serviceImg :hover{
+    box-shadow: 0 3px 10px rgba(0,0,0,0.3);
+    transition: opacity 0.3s ease-in-out;
+    border-radius: 10px;
+}
+
+.serviceName{
+    
+}
+.services{
+    cursor: pointer;
+}
